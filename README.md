@@ -7,3 +7,4 @@
 | 名称               | 教程                                                                 |
 | ------------------ | -------------------------------------------------------------------- |
 | PC 端调试 ios 设备 | [Here](https://github.com/pwcong/FrontEnd-Skill/tree/master/src/debug-ios-with-pc) |
+| Git 钩子 | [Here](https://github.com/pwcong/FrontEnd-Skill/tree/master/src/git-hook) |
