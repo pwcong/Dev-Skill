@@ -1,10 +1,11 @@
-# FrontEnd-Skill
+# Dev-Skill
 
-前端开发的一些特殊姿势
+开发的一些特殊姿势
 
 ## Skill List
 
-| 名称               | 教程                                                                 |
-| ------------------ | -------------------------------------------------------------------- |
-| PC 端调试 ios 设备 | [Here](https://github.com/pwcong/FrontEnd-Skill/tree/master/src/debug-ios-with-pc) |
-| Git 钩子 | [Here](https://github.com/pwcong/FrontEnd-Skill/tree/master/src/git-hook) |
+| 名称                  | 教程                                                                          |
+| --------------------- | ----------------------------------------------------------------------------- |
+| PC 端调试 ios 设备    | [Here](https://github.com/pwcong/Dev-Skill/tree/master/src/debug-ios-with-pc) |
+| Git 钩子              | [Here](https://github.com/pwcong/Dev-Skill/tree/master/src/git-hook)          |
+| 国内安装使用 HomeBrew | [Here](https://github.com/pwcong/Dev-Skill/tree/master/src/brew-install)      |
